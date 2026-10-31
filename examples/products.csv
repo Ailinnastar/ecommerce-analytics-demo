@@ -1,0 +1,7 @@
+id,market,category,size,name,price,currency
+cn-demo-1,CN,shorts,M,跑步 短裤 蓝色,100,CNY
+hk-demo-1,HK,shorts,M,running shorts blue,110,HKD
+cn-demo-2,CN,jacket,L,training jacket black,200,CNY
+hk-demo-2,HK,jacket,L,training jacket black,220,HKD
+hk-demo-3,HK,jacket,L,training jacket black,225,HKD
+cn-demo-3,CN,shoes,40,walking shoes white,150,CNY
